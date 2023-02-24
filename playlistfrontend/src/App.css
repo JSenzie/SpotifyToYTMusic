@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.loading,
+.main,
+.about,
+.error {
+  padding-top: 10%;
+}
+
+.error {
+  padding-top: 10px;
+  color: red;
+}
+
+body {
+  background-color: rgb(146, 228, 99);
+}
